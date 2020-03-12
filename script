@@ -1,0 +1,14 @@
+#Olympic rings
+circle
+245 355 0 100
+circle
+105 355 0 100
+circle
+385 355 0 100
+circle
+175 275 0 100
+circle
+315 275 0 100
+display
+save
+olympics.png
